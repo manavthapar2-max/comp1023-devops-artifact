@@ -10,3 +10,4 @@ IF %ERRORLEVEL% EQU 0 (
   echo Artifact check failed.
   exit /b 1
 )
+
